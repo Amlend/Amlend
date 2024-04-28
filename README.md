@@ -86,15 +86,18 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amlend&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amlend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
+<h4 align="center">Visitor count:</h4>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Amlend/count.svg?"  />
 </div>
 
 ###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amlend&theme=onedark" alt="Amlend" /></a></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amlend&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amlend&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amlend&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amlend&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amlend&theme=monokai&utcOffset=6)  
+
+
+<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
