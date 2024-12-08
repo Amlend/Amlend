@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm currently working on JavaScript, TypeScript, Node.js, Express.js, React, MongoDB, REST, GraphQL.<br><br>- 🌱 I'm currently learning Containerization and Orchestration.<br><br>- 👯 I'm looking to collaborate on backend, frontend and full stack development.<br><br>- 💬 Ask me about how web works.<br><br>- ⚡ Favourite Quote: 'I belong to the warrior in whom the old ways have joined the new.'</p>
+<p align="left">- 🔭 I'm currently working on JavaScript, TypeScript, Nuxt 3, Node.js, Express.js, React, Vue.js, SQL, MongoDB, REST, GraphQL.<br><br>- 🌱 I'm currently learning Containerization and Orchestration.<br><br>- 👯 I'm looking to collaborate on backend, frontend and full stack development.<br><br>- 💬 Ask me about how web works.<br><br>- ⚡ Favourite Quote: 'I belong to the warrior in whom the old ways have joined the new.'</p>
 
 ###
 
