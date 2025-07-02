@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="left">Hi 👋! My name is Amlend and I'm a Full Stack Web Developer, from India.</h2>
+<h2 align="left">Hi! 👋 My name is Amlend and I'm a Full Stack Web Developer, from India.</h2>
 
 ###
 
